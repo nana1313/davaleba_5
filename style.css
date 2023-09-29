@@ -1,0 +1,283 @@
+header{
+    background-color: #0020F4;
+    max-width: 1920px;
+    width: 100%;
+    height: 388px;
+}
+.header-div{
+    max-width: 1475px;
+    width: 100%;
+    height: 91px;
+    margin-top: 27px;
+    margin-left: 240px;
+}
+
+.logo{
+    max-width: 115px;
+    width: 100%;
+    margin-top: 40px;
+}
+.navigation{
+    padding-left: 373px;
+    margin-top: -37px;
+}
+.navigation li{
+    display: inline;
+    list-style: none;
+    margin-left: 42px;
+    border-bottom: 1px solid white;
+    padding-bottom: 15px;
+    
+}
+.navigation a{
+    color: #ffffff;
+    max-width: 70px;
+    width: 100%;
+    font-weight: 18;
+    font-size: 16px;
+    text-decoration: none;
+}
+.button-contact button{
+    background-color: #FFFFFF;
+    border-radius: 28px;
+    width: 160px;
+    height: 55px;
+}
+.button-contact-title{
+    color: #171717;
+    font-weight: bold;
+    font-size: 16px;
+}
+.button-contact{
+    margin-left: 1050px;
+    margin-top: -55px;
+}
+.main-image {
+    margin-top: -215px;
+    max-width: 1195px;
+    width: 100%;
+    border-radius: 15px;
+  }
+.main-title{
+    max-width: 714px;
+    height: 33px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #171717;
+    font-style: bold;
+    width: 100%;
+  }
+  .section1-image-title{
+    margin-left: 362px;
+}
+.small-image{
+    max-width: 219px;
+    width: 100%;
+    border-radius: 15px;
+    margin-left: 25px;
+}
+.article1{
+    margin-left: 337px;
+    margin-top: 60px;
+}
+.text{
+    max-width: 951px;
+    width: 100%;
+    margin-left: 484.5px;
+    margin-top: 60px;
+}
+.text-content{
+    color: #171717;
+    font-weight: 26;
+    font-size: 16px;
+    font-family: "HelveticaNeueLTGEOW82-55Rm", Regular;
+}
+.read-more{
+    margin-left: 790px;
+    margin-top: 40px;
+    max-width: 341px;
+    width: 100%;
+    height: 55px;
+    background-color: #0A22F4;
+    border-radius: 28px;
+}
+.read-more-text{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 19;
+}
+footer{
+    background-color: #0a22f4;
+    max-width: 1920px;
+    width: 100%;
+    height: 1080px;
+    font-weight: 26;
+    text-align: left;
+    margin-top: 180px;
+}
+.contact-about-h2{
+    font-family: "Helvetica Neue", bold;
+    color: white;
+    font-size: 32px;
+    font-weight: 39;
+    
+}
+.contact-info-text{
+    width: 463px;
+    height: 99px;
+    font-size: 16px;
+    font-weight: 26px;
+    font-family: "HelveticaNeueLTGEOW82-55Rm", Regular;
+    color: #ffffff;
+}
+.map{
+    max-width: 463px;
+    height: 197px;
+    width: 100%;
+    border-radius: 15px;
+    margin-left: 10px;
+    box-shadow: -10px 10px white;
+}
+.contact-about{
+    padding-left: 240px;
+    padding-top: 275px;
+}
+.phone{
+    max-width: 268px;
+    width: 100%;
+    height: 170px;
+}
+.back{
+    border-radius: 50px;
+    max-width: 70px;
+    height: 70px;
+    width: 100%;
+}
+.icon{
+    max-width: 26px;
+    width: 100%;
+}
+.phone-icon{
+   margin-left: 22px;
+   margin-top: -50px;
+}
+.number{
+    max-width: 178px;
+    width: 100%;
+    color: white;
+    font-size: 22px;
+    font-weight: 27;
+    font-family: "Helvetica Neue", bold;
+    margin-left: 90px;
+    margin-top: -30px;
+}
+.phone{
+    margin-left: 240px;
+    margin-top: 60px;
+}
+.mail-mail{
+    margin-top: -50px;
+    margin-left: -18px;
+}
+.mail-text{
+    max-width: 178px;
+    width: 100%;
+    color: white;
+    font-size: 22px;
+    font-weight: 27;
+    font-family: "Helvetica Neue", bold;
+    margin-left: 90px;
+    margin-top: -50px;
+}
+.mail{
+    margin-left: 606px;
+    margin-top: -170px;
+}
+.right{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 19;
+    max-width: 209px;
+    width: 100%;
+    height: 19px;
+    margin-top: 206px;
+    margin-left: 240px;
+}
+input,
+label{
+    display: block;
+}
+.form-name{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 19;
+}
+.form{
+    margin-top: -688px;
+    margin-left: 1216px;
+}
+.form-input{
+    border: none;
+    background-color: #0A22F4;
+    border-bottom: 0.5px solid white;
+    width: 463px;
+    height: 40px;
+}
+#message{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 19;
+    height: 140px;
+}
+.form div{
+    margin-top: 40px;
+}
+.send{
+    width: 151px;
+    height: 55px;
+    border-radius: 28px;
+    margin-top: 40px;
+    margin-left: 310px;
+}
+.send-text{
+    color: #171717;
+    font-size: 16px;
+    font-weight: 19;
+    width: 70px;
+    height: 19px;
+    font-family: "Helvetica Neue", Bold;
+}
+.last-text-text1{
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: 16;
+}
+.last-text-text2{
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: 16;
+    margin-left: 150px;
+    margin-top: -27px;
+}
+.heart{
+    max-width: 26px;
+    width: 100%;
+    height: 26px;
+}
+.last-logo{
+    max-width: 121px;
+    width: 100%;
+    height: 35px;
+}
+.it{
+    margin-top: -33px;
+    margin-left: 115px;
+}
+.logo-logo{
+    margin-top: -43px;
+    margin-left: 190px;
+}
+.last-text{
+    margin-left: 1360px;
+    margin-top: 80px;
+}
